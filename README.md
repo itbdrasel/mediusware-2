@@ -1,7 +1,7 @@
 ## Installation
 #### Clone the repository
 ```
-git clone https://github.com/itbdrasel/dasherkandi-2.git 
+git clone https://github.com/itbdrasel/mediusware-2.git 
 ```
 
 #### composer update
